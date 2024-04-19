@@ -9,3 +9,6 @@
 - any deploy service should work just fine
 - this is NOT source code, it's just a proxy so that anyone can deploy
 - NO STATIC DEPLOYMENTS WILL WORK, THIS IS A NODE.JS FILE!
+
+
+### if you enjoy this and decide to fork it please star this respository please with a cherry on top
