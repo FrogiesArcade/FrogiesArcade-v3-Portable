@@ -4,7 +4,7 @@
 
 ## https://discord.com/invite/fErn6KteQn
 
-## run npm i express && npm i cookie-parser && npm i proxy-middleware && npm i path
+## run npm i
 
 - any deploy service should work just fine
 - this is NOT source code, it's just a proxy so that anyone can deploy
