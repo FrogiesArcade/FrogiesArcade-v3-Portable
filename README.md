@@ -6,5 +6,6 @@
 
 - when it says the server is online goto http://localhost:5000
 - from what i have tested you require node, any linux or windows system with node installed (obv)
+- IPADS ARE NOT SUPPORTED!!
 
 ### if you enjoy this and decide to fork it please star this respository please with a cherry on top
