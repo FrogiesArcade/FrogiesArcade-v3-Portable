@@ -5,7 +5,7 @@
 ## https://discord.com/invite/fErn6KteQn
 
 [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://dashboard.render.com/blueprint/new?repo=https%3A%2F%2Fgithub.com%2FFrogiesArcade%2FFrogiesArcade-v2-Portable)
-[![Deploy with Vercel](https://binbashbanana.github.io/deploy-buttons/buttons/remade/vercel.svg)](https://vercel.com/new/clone?repositoryurl=https://github.com/FrogiesArcade/FrogiesArcade-v2-Portable)
+[![Deploy with Vercel](https://binbashbanana.github.io/deploy-buttons/buttons/remade/vercel.svg)](https://vercel.com/new/pogsysuxs-projects/clone?s=https%3A%2F%2Fgithub.com%2FFrogiesArcade%2FFrogiesArcade-v2-Portable&showOptionalTeamCreation=false)
 
 ## run npm i
 
