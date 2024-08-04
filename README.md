@@ -7,7 +7,7 @@
 ### run the RUN ME.bat file (or RUN ME - linux and mac.sh, depending on what kind of operating system you use. you can check it no viruses included)
 
 - when it says the server is online goto http://localhost:5000
-- from what i have tested you require node, any linux or windows system with node installed (obv)
 - IPADS ARE NOT SUPPORTED!!
+- installs for node.js for linux or mac are not gonna be supplied here, find it yourself.
 
 ### if you enjoy this and decide to fork it please star this respository please with a cherry on top
