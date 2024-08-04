@@ -1,4 +1,4 @@
-# frogie's arcade v2 portable deployable (unblockable)
+# frogie's arcade v3 portable deployable (unblockable)
 
 # if you dont have node run the node installer for your system.
 
