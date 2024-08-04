@@ -1,6 +1,4 @@
-# frogie's arcade v2 portable deployable
-
-# the thing i have been planning to do, and now it's here!
+# frogie's arcade v3 portable deployable
 
 ## https://discord.com/invite/fErn6KteQn
 
