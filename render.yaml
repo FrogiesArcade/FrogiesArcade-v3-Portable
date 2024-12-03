@@ -1,7 +1,7 @@
 # Exported from Render on 2024-04-20T17:23:49Z
 services:
 - type: web
-  name: another rizz
+  name: ixl
   runtime: node
   repo: https://github.com/FrogiesArcade/FrogiesArcade-v2-Portable
   plan: free
