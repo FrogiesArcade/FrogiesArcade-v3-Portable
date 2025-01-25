@@ -1,9 +1,9 @@
 # Exported from Render on 2024-04-20T17:23:49Z
 services:
 - type: web
-  name: ixl
+  name: my-type-is-the-bag
   runtime: node
-  repo: https://github.com/FrogiesArcade/FrogiesArcade-v2-Portable
+  repo: https://github.com/FrogiesArcade/FrogiesArcade-v3-Portable
   plan: free
   region: oregon
   buildCommand: npm i
